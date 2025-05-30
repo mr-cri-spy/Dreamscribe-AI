@@ -2,7 +2,7 @@
 Dreamscribe AI Turn Your Dreams Into Magical Stories
 
 Ever woken up from a wild dream and thought, *"This could be a fantasy novel!"*  
-**Dreamscribe AI** brings that vision to life — instantly.
+**Dreamscribe AI** brings that vision to life instantly.
 
 This lightweight AI-powered tool transforms your dream journal entries into vivid, imaginative stories using open-source language models — completely free.
 
